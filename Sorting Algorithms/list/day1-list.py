@@ -1,3 +1,12 @@
+"""
+File: day1-list.py
+Topic: Python Lists - Basics
+Author: Ketki Vijay Mohite
+Description:
+    Demonstrates list creation, iteration, indexing, slicing, and commonly used list methods.
+    Includes examples for positive and negative indexing, slicing variations, and enumerate().
+"""
+
 # list, access its elements one by one using a for loop, and access 
 # elements using an index (including negative indexing).
 fruits = ["apple", "banana", "cherry", "date", "strawberry"]

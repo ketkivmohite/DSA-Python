@@ -1,60 +1,73 @@
-🐍 DSA with Python — Learning Journey 🚀
+# 🐍 DSA with Python — Learning Journey 🚀
 
-Welcome to my DSA-Python repository!  
-This repo contains all my practice code, notes, and exercises from the Programiz “DSA with Python” Course — where I’m mastering Data Structures and Algorithms step by step.
- 
-📘 Course Roadmap (Programiz Chapters)
-🩵 Ch 1: Introduction
-•	Introduction to DSA
-•	Why Learn DSA?
-•	Prerequisites
-•	Python Lists ✅
+Welcome to my **DSA-Python** repository!  
+This repo contains all my **practice code, notes, and exercises** as I learn **Data Structures and Algorithms (DSA)** using Python — step by step, from the basics to advanced concepts.  
 
-💠 Ch 2: Sorting Algorithms
-•	Sorting
-•	Bubble Sort
-•	Selection Sort
-•	Insertion Sort
-•	Merge Sort
-•	Quick Sort
-•	Counting Sort
+It’s a personal space where I code, experiment, and strengthen my problem-solving skills through hands-on practice 💻✨  
 
-🔍 Ch 3: Search Algorithms
-•	Linear Search
-•	Binary Search
+---
 
-🔗 Ch 4–6: Linked Lists
-•	Linked List
-•	Circular Linked List
-•	Doubly Linked List
+## 📘 Learning Roadmap
 
-🧱 Ch 7–9: Intermediate Concepts
-•	Stacks and Queue
-•	Hashing
-•	String Matching Algorithms
+### 🩵 Chapter 1: Introduction
+- Introduction to DSA  
+- Why Learn DSA?  
+- Prerequisites  
+- Python Lists ✅  
 
-🌳 Ch 10–14: Trees & Graphs
-•	Tree Data Structure
-•	Binary Tree
-•	Heaps
-•	Graph Data Structure
-•	Relationships in a Graph
+### 💠 Chapter 2: Sorting Algorithms
+- Sorting Overview  
+- Bubble Sort  
+- Selection Sort  
+- Insertion Sort  
+- Merge Sort  
+- Quick Sort  
+- Counting Sort  
 
-🧩 Ch 15–21: Advanced DSA
-•	Graph-Based Algorithms
-•	Greedy Algorithms
-•	Sorting (II)
-•	Balanced Trees
-•	B/B+ Trees
-•	Dynamic Programming
-•	What’s Next?
- 
-🧠 What I’m Focusing On
-•	Strengthening fundamentals through hands-on Python examples
-•	Solving problems from each chapter
-•	Learning to visualize and analyze algorithm efficiency
- 
-💻 How to Run the Programs
-Clone this repo and run any chapter file using Python:
-git clone [https://github.com/ketkivmohite/DSA-Python.git]
+### 🔍 Chapter 3: Search Algorithms
+- Linear Search  
+- Binary Search  
+
+### 🔗 Chapter 4–6: Linked Lists
+- Linked List  
+- Circular Linked List  
+- Doubly Linked List  
+
+### 🧱 Chapter 7–9: Intermediate Concepts
+- Stacks and Queue  
+- Hashing  
+- String Matching Algorithms  
+
+### 🌳 Chapter 10–14: Trees & Graphs
+- Tree Data Structure  
+- Binary Tree  
+- Heaps  
+- Graph Data Structure  
+- Relationships in a Graph  
+
+### 🧩 Chapter 15–21: Advanced DSA
+- Graph-Based Algorithms  
+- Greedy Algorithms  
+- Sorting (II)  
+- Balanced Trees  
+- B/B+ Trees  
+- Dynamic Programming  
+- What’s Next?  
+
+---
+
+## 🧠 What I’m Focusing On
+- Strengthening my fundamentals through **hands-on Python examples**  
+- Solving problems from each concept to build depth  
+- Learning to **visualize and analyze algorithm efficiency**  
+- Keeping consistent practice and documentation  
+
+---
+
+## 💻 How to Run the Programs
+You can clone this repository and run any file using Python:
+
+```bash
+git clone https://github.com/ketkivmohite/DSA-Python.git
 cd DSA-Python
+python filename.py

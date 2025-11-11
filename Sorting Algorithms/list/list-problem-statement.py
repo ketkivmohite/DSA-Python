@@ -1,3 +1,12 @@
+"""
+File: list-problem-statement.py
+Project: To-Do List using Python Lists
+Author: Ketki Vijay Mohite
+Description:
+    A simple interactive console-based to-do list app that allows users to add,
+    remove, and view tasks. Demonstrates practical use of Python lists.
+"""
+
 task_list = []
 
 def add_task(task):
